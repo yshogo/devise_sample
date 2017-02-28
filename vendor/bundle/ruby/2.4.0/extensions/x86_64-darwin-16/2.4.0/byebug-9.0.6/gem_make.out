@@ -1,0 +1,19 @@
+current directory: /Applications/rubyworkspace2/devise_sample/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20170226-1299-8l4pig.rb extconf.rb 
+creating Makefile
+
+current directory: /Applications/rubyworkspace2/devise_sample/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Applications/rubyworkspace2/devise_sample/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Applications/rubyworkspace2/devise_sample/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170226-1299-1kke6ds/byebug
